@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @J-JadeiteHan
+- 👋 Hi, I’m @JadeiteHan
 - 👀 I’m interested in Computational chemistry, Material chemistry, and Total synthesis.
 - 🌱 I’m currently learning Chemistry, Materials science and engineering, and Latin language.
 - 💞️ I’m looking to collaborate on Computational chemistry.
